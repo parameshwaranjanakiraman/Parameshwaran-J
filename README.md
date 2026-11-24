@@ -69,7 +69,7 @@ I do freelance technical work (web apps, Python/C, automation, portfolio sites) 
 ## 🤝 Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/parameshwaran-j-395984402/]
-- GitHub: [your-github-url]
+- GitHub: [https://github.com/parameshwaranjanakiraman]
 - Open to collaborating on CTFs, security labs and write-ups
 
 ---
